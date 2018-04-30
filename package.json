@@ -1,0 +1,15 @@
+{
+  "name": "OverBot",
+  "version": "0.0.1",
+  "description": "Bot to control input from TwitchTV",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew \"Gamemaster\" Stanley",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.5.1",
+    "tmi.js": "^1.2.1"
+  }
+}
